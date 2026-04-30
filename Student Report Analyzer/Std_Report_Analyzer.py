@@ -1,3 +1,19 @@
+'''
+You are given a list of student records where each record contains:
+Name
+Marks in 3 subjects
+Task:
+Calculate the average marks for each student
+Assign grades:
+A: ≥ 80
+B: 60–79
+C: 40–59
+Fail: < 40
+Find the topper
+Print a sorted report (highest to lowest average)
+'''
+
+
 students = [
     {"name": "Mahesh", "marks": [78, 85, 90]},
     {"name": "Ravi", "marks": [60, 65, 70]},
