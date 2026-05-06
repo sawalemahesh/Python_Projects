@@ -14,6 +14,6 @@ def test_get_single_user():
 
     # Response time in seconds
 
-    assert response.elapsed.total_seconds() <2
+    assert response.elapsed.total_seconds() < 2
 
     print(response.json())
