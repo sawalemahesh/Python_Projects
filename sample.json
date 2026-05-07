@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Vandana",
+        "email": "vandana@test.com",
+        "active": true
+      }
+    ]
+  }
+}
